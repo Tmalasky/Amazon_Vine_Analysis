@@ -10,3 +10,7 @@ Using PySpark to perform the ETL process to extract the dataset, transform the d
 - Percentage_5star_not_vine = 38%
 - There is reason to believe that the percentage of 5star ratings is directly tied to wether the reiewer is paid(vine) or unpaid(not_vine).
 ![Screen Shot 2022-10-11 at 6 09 27 PM](https://user-images.githubusercontent.com/105253626/195207640-8b2ece79-af5b-461b-a20d-1fb565eb162e.png)
+
+## Summary:
+It seems for the video game reviews case they do get more positive reviews for being paid on the vine program.
+
